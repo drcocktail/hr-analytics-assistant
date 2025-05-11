@@ -4,6 +4,8 @@
 
 HR Analytics Assistant is an elegant, intelligent tool that transforms raw employee data into meaningful insights. Using advanced AI, it identifies potential issues, facilitates supportive conversations, and generates actionable recommendations to enhance workplace wellbeing.
 
+This project has also been hosted on Huggingface Spaces, you can check it out: https://huggingface.co/spaces/drcocktail/HR-AGENT-DEV
+
 ![HR Analytics Assistant Demo](https://github.com/yourusername/hr-analytics-assistant/assets/demo.gif)
 
 ## ✨ Features
