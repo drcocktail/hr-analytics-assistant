@@ -1,0 +1,9 @@
+google-genai 
+streamlit 
+pandas 
+networkx 
+matplotlib
+altair
+python-dotenv
+langgraph 
+numpy
