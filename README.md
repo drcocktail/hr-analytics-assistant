@@ -29,7 +29,7 @@ This project has also been hosted on Huggingface Spaces, you can check it out: h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rk-opensoft-25.git
+   git clone https://github.com/yourusername/hr-analytics-assistant.git
    cd hr-analytics-assistant
    ```
 
